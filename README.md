@@ -3,4 +3,4 @@
 In this circuit can be made more efficient as well as increasing the output voltage by using Schottky diodes instead of generic silicon. This is because Schottky diodes  results in a larger negative voltage.
 
 (DEU) In dieser Schaltung kann durch die Verwendung von Schottky-Dioden anstelle von generischem Silizium. Auf diese weise erzielt  eine höhere Effizienz  und die Ausgangsspannung erhöht werden.  Eine negative Spannung unterscheidet sich im Grunde nicht von einer positiven Spannung. Beide repräsentieren potentielle Energie relativ zu einem Referenzpotenzial.
-Wenn ein Schaltungsknoten eine positive Spannung im Verhältnis zum Referenzknoten hat und wir diese beiden Knoten mit einem Leiter verbinden, fließt der konventionelle Strom vom positiven Knoten zum Referenzknoten. 
+Wenn ein Schaltungsknoten eine positive Spannung im Verhältnis zum Referenzknoten hat und wir diese beiden Knoten mit einem Leiter verbinden, fließt der konventionelle Strom vom positiven Knoten zum Referenzknoten. Kondensatoren und Induktivitäten sind grundlegende elektronische Bauteile, die Energie speichern können, und beide können verwendet werden, um negative Spannungen zu erzeugen. 
