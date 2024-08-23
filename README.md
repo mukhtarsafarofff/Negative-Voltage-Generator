@@ -1,4 +1,4 @@
-
+(ENG) A negative voltage is not fundamentally different from a positive voltage .
 
 In this circuit can be made more efficient as well as increasing the output voltage by using Schottky diodes instead of generic silicon. This is because Schottky diodes  results in a larger negative voltage. The oscillator can be anything from a 555 timer to a microcontroller, but remember that the negative voltage will be equal to the oscillator's max voltage – min voltage. In this project, i'm  using oscillators, that are based on 555 astable oscillator.
 
